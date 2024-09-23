@@ -56,9 +56,6 @@ sum(rate(node_network_transmit_bytes_total{device!="lo"}[5m])) by (instance)
 
 ## Metrics Based Alerts
 </br>
-
-![image](https://github.com/user-attachments/assets/9b27a3e2-ace2-4141-b6ee-08a2b9392f6f)
-
 </br>
 
 ![image](https://github.com/user-attachments/assets/6965ed3d-f696-4229-a516-ae51197651d7)
